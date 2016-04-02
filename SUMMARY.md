@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Introduction](introduction.md)
   * [Grammar Notation](introduction.md)
   * [Compatibility](introduction.md)
