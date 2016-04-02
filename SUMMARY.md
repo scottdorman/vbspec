@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](introduction.md)
-  * [Grammar Notation](introduction.md)
-  * [Compatibility](introduction.md)
+* [Grammar Notation](introduction.md)
+* [Compatibility](introduction.md)
 * [Lexical Grammar](lexical-grammar.md)
   *  [Characters and Lines](lexical-grammar.md)
     *  [Line Terminators](lexical-grammar.md)
