@@ -4,7 +4,7 @@
  * [Grammar Notation](/vb/introduction.md)
  * [Compatibility](/vb/introduction.md)
 * [Lexical Grammar](/vb/lexical-grammar.md)
-  * [Characters and Lines](/vb/lexical-grammar.md)
+* [Characters and Lines](/vb/lexical-grammar.md)
   * [Identifiers](/vb/lexical-grammar.md)
   * [Type Characters](/vb/lexical-grammar.md)
   * [Keywords](/vb/lexical-grammar.md)
