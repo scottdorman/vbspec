@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](/vb/introduction.md)
-    * [Grammar Notation](#grammar-notation)
+    * [Grammar Notation](/vb/introduction.md#grammar-notation)
     * [Compatibility](/vb/introduction.md#compatibility)
 * [Lexical Grammar](/vb/lexical-grammar.md)
     * [Characters and Lines](/vb/lexical-grammar.md#characters-and-lines)
