@@ -118,4 +118,3 @@
     * [Recommended tags](/vb/documentation-comments.md#recommended-tags)
     * [ID Strings](/vb/documentation-comments.md#id-strings)
     * [Documentation comments example](/vb/documentation-comments.md#documentation-comments-example)
-* [Grammar](/vb/http://ljw1004.github.io/vbspec/vb/vb.html)
